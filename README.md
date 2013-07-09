@@ -7,3 +7,5 @@ The general Issue is:
   1) Create branches
   2) Switching between branches 
   3) Merging branches
+
+//Changed on 09.07.2013
